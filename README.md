@@ -2,6 +2,8 @@
 
 A modern web application for analyzing and visualizing Chrome User Experience Report (CrUX) data for multiple URLs. This dashboard helps you monitor and compare key web performance metrics across different webpages.
 
+Frontend is deployed on [https://crux-frontend-flame.vercel.app/](https://crux-frontend-flame.vercel.app/)
+
 ## Features
 
 - **Bulk URL Analysis**: Input multiple URLs to analyze their performance metrics simultaneously
@@ -20,10 +22,8 @@ A modern web application for analyzing and visualizing Chrome User Experience Re
 
 ## Tech Stack
 
-- React
+- Node.js
 - TypeScript
-- Material-UI (MUI)
-- Next.js
 
 ## Getting Started
 
