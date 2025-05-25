@@ -37,7 +37,7 @@ A modern web application for analyzing and visualizing Chrome User Experience Re
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/crux-backend.git
+   git clone https://github.com/dwivedi-gaurav/crux-backend.git
    cd crux-backend
    ```
 
