@@ -1,4 +1,4 @@
-# CrUX Report Dashboard
+# CrUX Backend
 
 A modern web application for analyzing and visualizing Chrome User Experience Report (CrUX) data for multiple URLs. This dashboard helps you monitor and compare key web performance metrics across different webpages.
 
@@ -37,8 +37,8 @@ A modern web application for analyzing and visualizing Chrome User Experience Re
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/crux-report.git
-   cd crux-report
+   git clone https://github.com/yourusername/crux-backend.git
+   cd crux-backend
    ```
 
 2. Install dependencies:
